@@ -1,4 +1,4 @@
-# 👋 Hola, soy Andre (zTheNea)
+# zTheNea
 
 Software Developer y creador de herramientas de alto rendimiento para Android, Windows y Python.
 
