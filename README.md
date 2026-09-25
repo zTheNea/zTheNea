@@ -1,32 +1,48 @@
 # zTheNea
+### Software Developer & Systems Engineer
 
-Software Developer y creador de herramientas de alto rendimiento para Android, Windows y Python.
-
----
-
-### 🚀 Proyecto Principal
-* 📱 **[ScrcpyGUI (v1.3.0)](https://github.com/zTheNea/ScrcpyGUI)** — Interfaz gráfica moderna estilo IDE para streaming, control nativo UHID y pantallas virtuales de dispositivos Android en PC con latencia cero.
-  - ⭐ **[Ver Releases y Descargas](https://github.com/zTheNea/ScrcpyGUI/releases)**
+Especializado en el desarrollo de herramientas de alto rendimiento, aplicaciones móviles con procesamiento de audio en tiempo real y utilidades de sistema para Windows y Android.
 
 ---
 
-### 🛠️ Tecnologías y Habilidades
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Proyectos Destacados
+
+### [ScrcpyGUI](https://github.com/zTheNea/ScrcpyGUI)
+Interfaz gráfica de escritorio para el control y transmisión de dispositivos Android en PC con latencia ultrabaja, construida sobre el motor de `scrcpy`.
+- **Arquitectura:** Modular, inspirada en IDEs modernos, con detección dinámica de capacidades de hardware por dispositivo y soporte para pantallas virtuales.
+- **Aspectos Técnicos:** Control nativo UHID, streaming sin pérdidas, multi-threading optimizado y renderizado eficiente.
+- **Stack:** Python, CustomTkinter, ADB, Scrcpy Engine.
+- **Releases:** [Descargas y Versiones Oficiales](https://github.com/zTheNea/ScrcpyGUI/releases)
+
+### [MotoIntercom](https://github.com/zTheNea/MotoIntercom)
+Sistema de intercomunicación de voz en tiempo real y transmisión de audio grupal para motociclistas sobre redes locales WiFi/Hotspot sin dependencia de internet ni servidores externos.
+- **Procesamiento de Audio (DSP):** HD Voice (16 kHz / 16-bit PCM), filtro digital Butterworth anti-viento (120 Hz), cancelación acústica de ruido y control automático de ganancia.
+- **Resiliencia de Red:** Jitter buffer adaptativo y ocultamiento de pérdida de paquetes (Packet Loss Concealment / PLC) sobre protocolo de baja latencia UDP.
+- **Seguridad:** Cifrado simétrico de paquetes en tiempo real con AES-128 (CTR).
+- **Stack:** Kotlin, Android SDK, AudioRecord/AudioTrack, Sockets UDP.
 
 ---
 
-### 📊 Estadísticas de GitHub
+## Stack Técnico & Especialidades
+
+- **Lenguajes:** Python, Kotlin, Java, JavaScript, Bash / Shell, SQL
+- **Desarrollo Móvil & Sistemas:** Android SDK, Audio DSP, Sockets UDP/TCP, Protocolos P2P, ADB
+- **Desarrollo de Escritorio:** CustomTkinter, Python GUI, Concurrencia y Multi-threading
+- **Criptografía & Redes:** Cifrado simétrico (AES-CTR), streaming en tiempo real, arquitecturas locales / peer-to-peer
+- **Herramientas & Entornos:** Git, GitHub Actions, Linux, Windows API
+
+---
+
+## Estadísticas
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zTheNea&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTheNea&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zTheNea&show_icons=false&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zTheNea&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
 
-### 🌐 Conéctate Conmigo
-* 🐙 **GitHub:** [github.com/zTheNea](https://github.com/zTheNea)
-* 📱 **Proyecto Destacado:** [ScrcpyGUI v1.3.0 Release](https://github.com/zTheNea/ScrcpyGUI/releases/tag/v1.3.0)
+## Contacto
+
+- **GitHub:** [github.com/zTheNea](https://github.com/zTheNea)
+- **Email:** [neadesarrolladorweb@gmail.com](mailto:neadesarrolladorweb@gmail.com)
